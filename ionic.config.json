@@ -1,0 +1,8 @@
+{
+  "name": "snowdeax",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "3a242d8d"
+}
